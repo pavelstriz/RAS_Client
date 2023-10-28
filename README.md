@@ -1,5 +1,6 @@
 # RAS_Client
 The client component empowers non-administrator users to execute any installer based on a valid license sourced from the server (RAS_Server). Beyond this, it opens up the potential to activate remote desktop (RDP) and enable pings (ICMP), expanding the spectrum of user control and system interaction.
+
 ![RunAs1](https://github.com/pavelstriz/RAS_Client/assets/116072652/6fbeaa80-0175-47ed-b438-5f55799e0fad)
 
 ![RunAs2](https://github.com/pavelstriz/RAS_Client/assets/116072652/6e02235e-ddb2-46d8-a17b-a2fc7dce1f9f)
